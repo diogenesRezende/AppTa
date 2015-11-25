@@ -1,0 +1,7 @@
+br/edu/univas/ta/resouces/ProdutoResources.class
+br/edu/univas/ta/dao/GenericDAO.class
+br/edu/univas/ta/util/JpaUtil.class
+br/edu/univas/ta/ctrl/ProdutoCtrl.class
+br/edu/univas/ta/dao/ProdutoDAO.class
+Teste.class
+br/edu/univas/ta/model/ProdutoTO.class
