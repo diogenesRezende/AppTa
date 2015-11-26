@@ -16,4 +16,7 @@ public class ProdutoCtrl {
 		return new ProdutoDAO(em).obterTodos();
 	}
 
+	public ProdutoTO obterPeloId(Long id) {
+		return new ProdutoDAO(em).obterPeloId(id);
+	}
 }
